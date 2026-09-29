@@ -20,7 +20,7 @@ public class LoginWithExampleSteps {
 
     @When("User navigate to login page")
     public void userNavigateToLoginPage() {
-        System.out.println("User navigate to login page");
+        System.out.println("User navigate to login page.....");
     }
 
     @And("User enters {string} and {string}")
