@@ -6,7 +6,7 @@ import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 
 
-public class FacebookPostSteps {{
+public class FacebookPostSteps {
     @Given("User should be logged in and should be present at its own wall")
     public void user_should_be_logged_in_and_should_be_present_at_its_own_wall() {
         // Write code here that turns the phrase above into concrete actions
